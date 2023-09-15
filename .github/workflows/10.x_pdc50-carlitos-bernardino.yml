@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-carlitos-bernardino'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5416D68B26184BC2B2EF6FC62BA06CCC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B405A4CB63C44CE5BA885FE92F8A3627 }}
           package: .
